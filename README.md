@@ -100,7 +100,7 @@
         <h1>Aye Mon San</h1>
         <div class="header-contact">
             <p>miayemonsan34@gmail.com &nbsp;|&nbsp; 092-396-9849</p>
-            <p>Chiang Mai, Thailand &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/mi-aye-mon-san-328346295" target="_blank">linkedin.com/in/mi-aye-mon-san-328346295</a></p>
+            <p>Chiang Mai, Thailand </p>
         </div>
     </header>
 
