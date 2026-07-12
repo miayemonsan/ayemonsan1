@@ -111,7 +111,7 @@
         <h1>Aye Mon San</h1>
         <div class="header-contact">
             <p>miayemonsan34@gmail.com &nbsp;|&nbsp; 092-396-9849</p>
-            <p>Chiang Mai, Thailand &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/mi-aye-mon-san-328346295" target="_blank">linkedin.com/in/mi-aye-mon-san-328346295</a></p>
+            <p>Chiang Mai, Thailand</p>
         </div>
     </header>
 
@@ -138,14 +138,6 @@
             <p>I am writing to express my strong interest in the English Instructor position. As a dedicated educator currently completing my B.A. in English Communication Arts at Payap University, I bring a unique blend of core academic training, diverse teaching experience, and a deep-seated passion for cross-cultural classroom environments.</p>
 
             <p>My teaching background spans across online instructional platforms and direct community education projects. As a General English Teacher for the Poy English Program, I have successfully designed interactive materials integrating functional conversational skills with applied grammar. These practical experiences have sharpened my ability to cultivate welcoming environments and adapt delivery styles to support multicultural learners effectively.</p>
-
-            <p>As for what I can contribute to your instructional team, please consider these personal and professional successes:</p>
-
-            <!-- Bullet point formatting from design -->
-            <ul>
-                <li>Developed and implemented task-based communicative lessons for remote classrooms to elevate learner pronunciation and conversation metrics.</li>
-                <li>Organized interactive activities as a Volunteer Teacher to maximize student engagement and streamline everyday classroom management.</li>
-                <li>Utilized strong multilingual competencies (Mon, Burmese, English, and Thai) to navigate complex, cross-cultural student environments gracefully.</li>
             </ul>
 
             <p>I look forward to an opportunity to discuss how my educational background, lesson management experience, and instructional values align perfectly with your curriculum goals. Thank you for your time and consideration.</p>
