@@ -83,17 +83,6 @@
             font-size: 15.5px;
         }
 
-        /* Bullets Lists precisely matching design */
-        .letter-content ul {
-            margin-left: 20px;
-            margin-bottom: 24px;
-        }
-        .letter-content li {
-            margin-bottom: 12px;
-            font-size: 15.5px;
-            padding-left: 6px;
-        }
-
         /* Closing Signature area */
         .closing-block {
             margin-top: 45px;
@@ -111,7 +100,7 @@
         <h1>Aye Mon San</h1>
         <div class="header-contact">
             <p>miayemonsan34@gmail.com &nbsp;|&nbsp; 092-396-9849</p>
-            <p>Chiang Mai, Thailand</p>
+            <p>Chiang Mai, Thailand &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/mi-aye-mon-san-328346295" target="_blank">linkedin.com/in/mi-aye-mon-san-328346295</a></p>
         </div>
     </header>
 
@@ -123,7 +112,6 @@
             <p class="hiring-title">Hiring Committee</p>
             <p>School of Languages and Education</p>
             <p>Academic Selection Panel</p>
-            <p>Chiang Mai, Thailand</p>
         </div>
 
         <!-- Date block -->
@@ -135,17 +123,20 @@
         <div class="letter-content">
             <p>Dear Hiring Manager,</p>
 
-            <p>I am writing to express my strong interest in the English Instructor position. As a dedicated educator currently completing my B.A. in English Communication Arts at Payap University, I bring a unique blend of core academic training, diverse teaching experience, and a deep-seated passion for cross-cultural classroom environments.</p>
+            <p>I am writing to express my interest in the English Instructor position at your institution. With experience teaching English both online and in community education settings, along with my academic background in English Communication, I am excited about the opportunity to contribute to your students' learning and development.</p>
 
-            <p>My teaching background spans across online instructional platforms and direct community education projects. As a General English Teacher for the Poy English Program, I have successfully designed interactive materials integrating functional conversational skills with applied grammar. These practical experiences have sharpened my ability to cultivate welcoming environments and adapt delivery styles to support multicultural learners effectively.</p>
-            </ul>
+            <p>I am currently pursuing a Bachelor of Arts in English Communication at Payap University in Chiang Mai, Thailand. My studies have strengthened my communication skills and deepened my understanding of language teaching, intercultural communication, and student-centered learning. In addition to my academic studies, I have gained practical teaching experience as a General English Teacher at Poy English Program and as a Freelance English Tutor, where I have taught learners from diverse backgrounds. I have designed engaging lessons that focus on improving speaking, grammar, pronunciation, and learners' confidence in using English in everyday situations.</p>
 
-            <p>I look forward to an opportunity to discuss how my educational background, lesson management experience, and instructional values align perfectly with your curriculum goals. Thank you for your time and consideration.</p>
+            <p>My volunteer experience at Chiang Rai Kindergarten further developed my classroom management skills and taught me the importance of creating a welcoming, inclusive, and enjoyable learning environment. I enjoy encouraging students to participate actively and helping them achieve their learning goals through patience, creativity, and positive support.</p>
+
+            <p>Growing up in Myanmar and studying in Thailand has given me valuable cross-cultural communication skills and the ability to connect with students from different backgrounds. I am fluent in Mon and Burmese, proficient in English, and have intermediate Thai language skills, allowing me to communicate effectively in multicultural learning environments.</p>
+
+            <p>I would welcome the opportunity to discuss how my teaching experience, enthusiasm for education, and commitment to student success can contribute to your organization. Thank you for considering my application. I appreciate your time and look forward to the opportunity to speak with you.</p>
         </div>
 
         <!-- Closing block -->
         <div class="closing-block">
-            <p>Best regards,</p>
+            <p>Yours sincerely,</p>
             <p class="signature-line">Aye Mon San</p>
         </div>
 
