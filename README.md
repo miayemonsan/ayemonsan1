@@ -1,5 +1,5 @@
 
-```
+
     /* Top Pink/Magenta Header Banner Box */
     header {
         background-color: #c14b8a; /* Vibrant magenta matching the design */
@@ -123,4 +123,3 @@
     </div>
 
 </div>
-```
